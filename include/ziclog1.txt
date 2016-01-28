@@ -1,0 +1,308 @@
+2016-01-19 19:54:26 file found2
+2016-01-19 19:54:26 Recv command login
+2016-01-19 19:54:26 OnUserLogin.1
+2016-01-19 19:54:27 receate db .
+2016-01-19 19:54:27 query db width .select * from tb_members where userid='none' and userpwd='e10adc3949ba59abbe56e057f20f883e'
+2016-01-19 19:54:27 Server connect ok.
+2016-01-19 19:54:27 XML writer init.
+2016-01-19 19:54:27 Add node ok: IE_HEADER
+2016-01-19 19:54:27          Add  Attribute ok MessageId LOGIN
+2016-01-19 19:54:27          Add  Attribute ok SessionId 
+2016-01-19 19:54:27          Add  Attribute ok MessageType 
+2016-01-19 19:54:27          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 19:54:27          Add  Attribute ok DestId 
+2016-01-19 19:54:27          Add  Attribute ok SequenceNumber 1
+2016-01-19 19:54:27 appendChild   ok 
+2016-01-19 19:54:27 Add node ok: RESULT
+2016-01-19 19:54:27          Add  Attribute ok Value 2
+2016-01-19 19:54:27          Add  Attribute ok Code 2
+2016-01-19 19:54:27          Add  Attribute ok usertype 0
+2016-01-19 19:54:27          Add  Attribute ok lastlogintime 
+2016-01-19 19:54:27          Add  Attribute ok lastloginip 
+2016-01-19 19:54:27          Add  Attribute ok userid none
+2016-01-19 19:54:27          Add  Attribute ok username 
+2016-01-19 19:54:27          Add  Attribute ok profit 0
+2016-01-19 19:54:27          Add  Attribute ok level 0
+2016-01-19 19:54:27          Add  Attribute ok point 0
+2016-01-19 19:54:27          Add  Attribute ok auth 0
+2016-01-19 19:54:27 begin to send cmd<br>
+2016-01-19 19:54:33 file found2
+2016-01-19 19:54:33 Recv command login
+2016-01-19 19:54:33 OnUserLogin.1
+2016-01-19 19:54:34 receate db .
+2016-01-19 19:54:34 query db width .select * from tb_members where userid='none' and userpwd='202cb962ac59075b964b07152d234b70'
+2016-01-19 19:54:34 Server connect ok.
+2016-01-19 19:54:34 XML writer init.
+2016-01-19 19:54:34 Add node ok: IE_HEADER
+2016-01-19 19:54:34          Add  Attribute ok MessageId LOGIN
+2016-01-19 19:54:34          Add  Attribute ok SessionId 
+2016-01-19 19:54:34          Add  Attribute ok MessageType 
+2016-01-19 19:54:34          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 19:54:34          Add  Attribute ok DestId 
+2016-01-19 19:54:34          Add  Attribute ok SequenceNumber 2
+2016-01-19 19:54:34 appendChild   ok 
+2016-01-19 19:54:34 Add node ok: RESULT
+2016-01-19 19:54:34          Add  Attribute ok Value 2
+2016-01-19 19:54:34          Add  Attribute ok Code 2
+2016-01-19 19:54:34          Add  Attribute ok usertype 0
+2016-01-19 19:54:34          Add  Attribute ok lastlogintime 
+2016-01-19 19:54:34          Add  Attribute ok lastloginip 
+2016-01-19 19:54:34          Add  Attribute ok userid none
+2016-01-19 19:54:34          Add  Attribute ok username 
+2016-01-19 19:54:34          Add  Attribute ok profit 0
+2016-01-19 19:54:34          Add  Attribute ok level 0
+2016-01-19 19:54:34          Add  Attribute ok point 0
+2016-01-19 19:54:34          Add  Attribute ok auth 0
+2016-01-19 19:54:34 begin to send cmd<br>
+2016-01-19 21:48:18 file found2
+2016-01-19 21:48:18 Recv command getindmemo
+2016-01-19 21:48:18 OnGetIndutryMemo
+2016-01-19 21:48:18 create new db
+2016-01-19 21:48:18 create new db ok
+2016-01-19 21:48:18 query db width .select * from tb_bussiness where industryid='120000000'
+2016-01-19 21:48:19 sql return count 3
+2016-01-19 21:48:19 XML writer init.
+2016-01-19 21:48:19 Add node ok: IE_HEADER
+2016-01-19 21:48:19          Add  Attribute ok MessageId GET_IND_MEMO
+2016-01-19 21:48:19          Add  Attribute ok SessionId 
+2016-01-19 21:48:19          Add  Attribute ok MessageType 
+2016-01-19 21:48:19          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 21:48:19          Add  Attribute ok DestId 
+2016-01-19 21:48:19          Add  Attribute ok SequenceNumber 3
+2016-01-19 21:48:19 appendChild   ok 
+2016-01-19 21:48:19 Add node ok: RESULT
+2016-01-19 21:48:19          Add  Attribute ok Code 0
+2016-01-19 21:48:19 begin to send result
+
+2016-01-19 21:48:19 appendChild   ok 
+2016-01-19 21:48:19 Add node ok: IND_MEMO
+2016-01-19 21:48:19          Add  Attribute ok businessid 120010000
+2016-01-19 21:48:19          Add  Attribute ok businessname 1类
+2016-01-19 21:48:19 appendChild   ok 
+2016-01-19 21:48:19 Add node ok: IND_MEMO
+2016-01-19 21:48:19          Add  Attribute ok businessid 120020000
+2016-01-19 21:48:19          Add  Attribute ok businessname 2类
+2016-01-19 21:48:19 appendChild   ok 
+2016-01-19 21:48:19 Add node ok: IND_MEMO
+2016-01-19 21:48:19          Add  Attribute ok businessid 120030000
+2016-01-19 21:48:19          Add  Attribute ok businessname 3类
+2016-01-19 21:48:19 begin to send result
+
+2016-01-19 21:48:21 file found2
+2016-01-19 21:48:21 Recv command getcheckitem
+2016-01-19 21:48:21 OnGetBussionessSubItem
+2016-01-19 21:48:21 create new db
+2016-01-19 21:48:21 create new db ok
+2016-01-19 21:48:21 query db width .select * from tb_bussinesssub where businessid='120020000'
+2016-01-19 21:48:21 sql return count 0
+2016-01-19 21:48:21 XML writer init.
+2016-01-19 21:48:21 Add node ok: IE_HEADER
+2016-01-19 21:48:21          Add  Attribute ok MessageId GET_BU_SUB_ITEM
+2016-01-19 21:48:21          Add  Attribute ok SessionId 
+2016-01-19 21:48:21          Add  Attribute ok MessageType 
+2016-01-19 21:48:21          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 21:48:21          Add  Attribute ok DestId 
+2016-01-19 21:48:21          Add  Attribute ok SequenceNumber 4
+2016-01-19 21:48:21 appendChild   ok 
+2016-01-19 21:48:21 Add node ok: RESULT
+2016-01-19 21:48:21          Add  Attribute ok Code 0
+2016-01-19 21:48:21 begin to send result
+
+2016-01-19 21:48:21 begin to send result
+
+2016-01-19 21:48:25 file found2
+2016-01-19 21:48:25 Recv command getcheckitem
+2016-01-19 21:48:25 OnGetBussionessSubItem
+2016-01-19 21:48:25 create new db
+2016-01-19 21:48:26 create new db ok
+2016-01-19 21:48:26 query db width .select * from tb_bussinesssub where businessid='120020000'
+2016-01-19 21:48:26 sql return count 0
+2016-01-19 21:48:26 XML writer init.
+2016-01-19 21:48:26 Add node ok: IE_HEADER
+2016-01-19 21:48:26          Add  Attribute ok MessageId GET_BU_SUB_ITEM
+2016-01-19 21:48:26          Add  Attribute ok SessionId 
+2016-01-19 21:48:26          Add  Attribute ok MessageType 
+2016-01-19 21:48:26          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 21:48:26          Add  Attribute ok DestId 
+2016-01-19 21:48:26          Add  Attribute ok SequenceNumber 5
+2016-01-19 21:48:26 appendChild   ok 
+2016-01-19 21:48:26 Add node ok: RESULT
+2016-01-19 21:48:26          Add  Attribute ok Code 0
+2016-01-19 21:48:26 begin to send result
+
+2016-01-19 21:48:26 begin to send result
+
+2016-01-19 21:48:27 file found2
+2016-01-19 21:48:27 Recv command getindmemo
+2016-01-19 21:48:27 OnGetIndutryMemo
+2016-01-19 21:48:27 create new db
+2016-01-19 21:48:27 create new db ok
+2016-01-19 21:48:27 query db width .select * from tb_bussiness where industryid='120000000'
+2016-01-19 21:48:27 sql return count 3
+2016-01-19 21:48:27 XML writer init.
+2016-01-19 21:48:27 Add node ok: IE_HEADER
+2016-01-19 21:48:27          Add  Attribute ok MessageId GET_IND_MEMO
+2016-01-19 21:48:27          Add  Attribute ok SessionId 
+2016-01-19 21:48:27          Add  Attribute ok MessageType 
+2016-01-19 21:48:27          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 21:48:27          Add  Attribute ok DestId 
+2016-01-19 21:48:27          Add  Attribute ok SequenceNumber 6
+2016-01-19 21:48:27 appendChild   ok 
+2016-01-19 21:48:27 Add node ok: RESULT
+2016-01-19 21:48:27          Add  Attribute ok Code 0
+2016-01-19 21:48:27 begin to send result
+
+2016-01-19 21:48:27 appendChild   ok 
+2016-01-19 21:48:27 Add node ok: IND_MEMO
+2016-01-19 21:48:27          Add  Attribute ok businessid 120010000
+2016-01-19 21:48:27          Add  Attribute ok businessname 1类
+2016-01-19 21:48:27 appendChild   ok 
+2016-01-19 21:48:27 Add node ok: IND_MEMO
+2016-01-19 21:48:27          Add  Attribute ok businessid 120020000
+2016-01-19 21:48:27          Add  Attribute ok businessname 2类
+2016-01-19 21:48:27 appendChild   ok 
+2016-01-19 21:48:27 Add node ok: IND_MEMO
+2016-01-19 21:48:27          Add  Attribute ok businessid 120030000
+2016-01-19 21:48:27          Add  Attribute ok businessname 3类
+2016-01-19 21:48:27 begin to send result
+
+2016-01-19 21:48:31 file found2
+2016-01-19 21:48:31 Recv command getcheckitem
+2016-01-19 21:48:31 OnGetBussionessSubItem
+2016-01-19 21:48:31 create new db
+2016-01-19 21:48:31 create new db ok
+2016-01-19 21:48:31 query db width .select * from tb_bussinesssub where businessid='120020000'
+2016-01-19 21:48:31 sql return count 0
+2016-01-19 21:48:31 XML writer init.
+2016-01-19 21:48:31 Add node ok: IE_HEADER
+2016-01-19 21:48:31          Add  Attribute ok MessageId GET_BU_SUB_ITEM
+2016-01-19 21:48:31          Add  Attribute ok SessionId 
+2016-01-19 21:48:31          Add  Attribute ok MessageType 
+2016-01-19 21:48:31          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 21:48:31          Add  Attribute ok DestId 
+2016-01-19 21:48:31          Add  Attribute ok SequenceNumber 7
+2016-01-19 21:48:31 appendChild   ok 
+2016-01-19 21:48:31 Add node ok: RESULT
+2016-01-19 21:48:31          Add  Attribute ok Code 0
+2016-01-19 21:48:31 begin to send result
+
+2016-01-19 21:48:31 begin to send result
+
+2016-01-19 22:46:07 file found2
+2016-01-19 22:46:07 Recv command login
+2016-01-19 22:46:07 OnUserLogin.1
+2016-01-19 22:46:08 receate db .
+2016-01-19 22:46:08 query db width .select * from tb_members where userid='aaa' and userpwd='47bce5c74f589f4867dbd57e9ca9f808'
+2016-01-19 22:46:08 Server connect ok.
+2016-01-19 22:46:08 XML writer init.
+2016-01-19 22:46:08 Add node ok: IE_HEADER
+2016-01-19 22:46:08          Add  Attribute ok MessageId LOGIN
+2016-01-19 22:46:08          Add  Attribute ok SessionId 
+2016-01-19 22:46:08          Add  Attribute ok MessageType 
+2016-01-19 22:46:08          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 22:46:08          Add  Attribute ok DestId 
+2016-01-19 22:46:08          Add  Attribute ok SequenceNumber 1
+2016-01-19 22:46:08 appendChild   ok 
+2016-01-19 22:46:08 Add node ok: RESULT
+2016-01-19 22:46:08          Add  Attribute ok Value 2
+2016-01-19 22:46:08          Add  Attribute ok Code 2
+2016-01-19 22:46:08          Add  Attribute ok usertype 0
+2016-01-19 22:46:08          Add  Attribute ok lastlogintime 
+2016-01-19 22:46:08          Add  Attribute ok lastloginip 
+2016-01-19 22:46:08          Add  Attribute ok userid aaa
+2016-01-19 22:46:08          Add  Attribute ok username 
+2016-01-19 22:46:08          Add  Attribute ok profit 0
+2016-01-19 22:46:08          Add  Attribute ok level 0
+2016-01-19 22:46:08          Add  Attribute ok point 0
+2016-01-19 22:46:08          Add  Attribute ok auth 0
+2016-01-19 22:46:08 begin to send cmd<br>
+2016-01-19 22:46:13 file found2
+2016-01-19 22:46:13 Recv command login
+2016-01-19 22:46:13 OnUserLogin.1
+2016-01-19 22:46:14 receate db .
+2016-01-19 22:46:14 query db width .select * from tb_members where userid='aaa' and userpwd='47bce5c74f589f4867dbd57e9ca9f808'
+2016-01-19 22:46:14 Server connect ok.
+2016-01-19 22:46:14 XML writer init.
+2016-01-19 22:46:14 Add node ok: IE_HEADER
+2016-01-19 22:46:14          Add  Attribute ok MessageId LOGIN
+2016-01-19 22:46:14          Add  Attribute ok SessionId 
+2016-01-19 22:46:14          Add  Attribute ok MessageType 
+2016-01-19 22:46:14          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 22:46:14          Add  Attribute ok DestId 
+2016-01-19 22:46:14          Add  Attribute ok SequenceNumber 2
+2016-01-19 22:46:14 appendChild   ok 
+2016-01-19 22:46:14 Add node ok: RESULT
+2016-01-19 22:46:14          Add  Attribute ok Value 2
+2016-01-19 22:46:14          Add  Attribute ok Code 2
+2016-01-19 22:46:14          Add  Attribute ok usertype 0
+2016-01-19 22:46:14          Add  Attribute ok lastlogintime 
+2016-01-19 22:46:14          Add  Attribute ok lastloginip 
+2016-01-19 22:46:14          Add  Attribute ok userid aaa
+2016-01-19 22:46:14          Add  Attribute ok username 
+2016-01-19 22:46:14          Add  Attribute ok profit 0
+2016-01-19 22:46:14          Add  Attribute ok level 0
+2016-01-19 22:46:14          Add  Attribute ok point 0
+2016-01-19 22:46:14          Add  Attribute ok auth 0
+2016-01-19 22:46:14 begin to send cmd<br>
+2016-01-19 22:49:41 file found2
+2016-01-19 22:49:41 Recv command loginOut
+2016-01-19 22:49:41 Logout ...
+2016-01-19 22:50:45 file found2
+2016-01-19 22:50:45 Recv command login
+2016-01-19 22:50:45 OnUserLogin.1
+2016-01-19 22:50:46 receate db .
+2016-01-19 22:50:46 query db width .select * from tb_members where userid='none' and userpwd='334c4a4c42fdb79d7ebc3e73b517e6f8'
+2016-01-19 22:50:46 Server connect ok.
+2016-01-19 22:50:46 XML writer init.
+2016-01-19 22:50:46 Add node ok: IE_HEADER
+2016-01-19 22:50:46          Add  Attribute ok MessageId LOGIN
+2016-01-19 22:50:46          Add  Attribute ok SessionId 
+2016-01-19 22:50:46          Add  Attribute ok MessageType 
+2016-01-19 22:50:46          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 22:50:46          Add  Attribute ok DestId 
+2016-01-19 22:50:46          Add  Attribute ok SequenceNumber 1
+2016-01-19 22:50:46 appendChild   ok 
+2016-01-19 22:50:46 Add node ok: RESULT
+2016-01-19 22:50:46          Add  Attribute ok Value 2
+2016-01-19 22:50:46          Add  Attribute ok Code 2
+2016-01-19 22:50:46          Add  Attribute ok usertype 0
+2016-01-19 22:50:46          Add  Attribute ok lastlogintime 
+2016-01-19 22:50:46          Add  Attribute ok lastloginip 
+2016-01-19 22:50:46          Add  Attribute ok userid none
+2016-01-19 22:50:46          Add  Attribute ok username 
+2016-01-19 22:50:46          Add  Attribute ok profit 0
+2016-01-19 22:50:46          Add  Attribute ok level 0
+2016-01-19 22:50:46          Add  Attribute ok point 0
+2016-01-19 22:50:46          Add  Attribute ok auth 0
+2016-01-19 22:50:46 begin to send cmd<br>
+2016-01-19 22:50:58 file found2
+2016-01-19 22:50:58 Recv command loginOut
+2016-01-19 22:50:58 Logout ...
+2016-01-19 22:52:39 file found2
+2016-01-19 22:52:39 Recv command login
+2016-01-19 22:52:39 OnUserLogin.1
+2016-01-19 22:52:40 receate db .
+2016-01-19 22:52:40 query db width .select * from tb_members where userid='none' and userpwd='334c4a4c42fdb79d7ebc3e73b517e6f8'
+2016-01-19 22:52:40 Server connect ok.
+2016-01-19 22:52:40 XML writer init.
+2016-01-19 22:52:40 Add node ok: IE_HEADER
+2016-01-19 22:52:40          Add  Attribute ok MessageId LOGIN
+2016-01-19 22:52:40          Add  Attribute ok SessionId 
+2016-01-19 22:52:40          Add  Attribute ok MessageType 
+2016-01-19 22:52:40          Add  Attribute ok SourceId WEB_SERVER
+2016-01-19 22:52:40          Add  Attribute ok DestId 
+2016-01-19 22:52:40          Add  Attribute ok SequenceNumber 1
+2016-01-19 22:52:40 appendChild   ok 
+2016-01-19 22:52:40 Add node ok: RESULT
+2016-01-19 22:52:40          Add  Attribute ok Value 2
+2016-01-19 22:52:40          Add  Attribute ok Code 2
+2016-01-19 22:52:40          Add  Attribute ok usertype 0
+2016-01-19 22:52:40          Add  Attribute ok lastlogintime 
+2016-01-19 22:52:40          Add  Attribute ok lastloginip 
+2016-01-19 22:52:40          Add  Attribute ok userid none
+2016-01-19 22:52:40          Add  Attribute ok username 
+2016-01-19 22:52:40          Add  Attribute ok profit 0
+2016-01-19 22:52:40          Add  Attribute ok level 0
+2016-01-19 22:52:40          Add  Attribute ok point 0
+2016-01-19 22:52:40          Add  Attribute ok auth 0
+2016-01-19 22:52:40 begin to send cmd<br>

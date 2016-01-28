@@ -1,0 +1,22 @@
+{config_load file="test.conf"}
+<html>  
+<head>  
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
+<title>Insert title here</title>  
+</head>  
+<body>
+{include file="head.html"}  
+    {$world}   
+	{#title#}
+	
+	<hr>
+	
+	  <ul>
+	  {foreach from=$list item=itm}
+		<li>name:{$itm}</li>
+		{/foreach}
+	  </ul>
+	
+{include file="foot.html"}  
+</body>  
+</html> 

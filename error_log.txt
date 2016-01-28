@@ -1,0 +1,148 @@
+[25-Jan-2016 06:33:11] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:22] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:22] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:38] PHP Warning:  Missing argument 1 for db_mysql::fetch_array(), called in E:\zic\elly\index.php on line 15 and defined in E:\zic\elly\services\mysql.class.php on line 53
+[25-Jan-2016 06:33:38] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:38] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:39] PHP Warning:  Missing argument 1 for db_mysql::fetch_array(), called in E:\zic\elly\index.php on line 15 and defined in E:\zic\elly\services\mysql.class.php on line 53
+[25-Jan-2016 06:33:39] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:39] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:39] PHP Warning:  Missing argument 1 for db_mysql::fetch_array(), called in E:\zic\elly\index.php on line 15 and defined in E:\zic\elly\services\mysql.class.php on line 53
+[25-Jan-2016 06:33:39] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:39] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:52] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:52] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:52] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:52] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:53] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:53] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:54] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:54] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:54] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:54] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:33:58] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:33:58] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:34:26] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:34:26] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:34:49] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:34:49] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:34:50] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:34:50] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:34:52] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:34:52] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:34:53] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:34:53] PHP Fatal error:  Call to undefined function show_error() in E:\zic\elly\services\mysql.class.php on line 34
+[25-Jan-2016 06:35:24] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:35:26] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:35:27] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:35:43] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:35:44] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:35:44] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:36:09] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:36:15] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:36:44] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:00] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:01] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:01] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:32] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:32] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:33] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:49] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:50] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:37:50] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:38:49] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:38:49] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:38:49] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:54:48] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:54:48] PHP Notice:  Undefined variable: db in E:\zic\elly\services\mysql.class.php on line 83
+[25-Jan-2016 06:54:48] PHP Fatal error:  Call to a member function query() on a non-object in E:\zic\elly\services\mysql.class.php on line 83
+[25-Jan-2016 06:54:50] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:54:50] PHP Notice:  Undefined variable: db in E:\zic\elly\services\mysql.class.php on line 83
+[25-Jan-2016 06:54:50] PHP Fatal error:  Call to a member function query() on a non-object in E:\zic\elly\services\mysql.class.php on line 83
+[25-Jan-2016 06:54:57] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:54:57] PHP Notice:  Undefined variable: db in E:\zic\elly\services\mysql.class.php on line 83
+[25-Jan-2016 06:54:57] PHP Fatal error:  Call to a member function query() on a non-object in E:\zic\elly\services\mysql.class.php on line 83
+[25-Jan-2016 06:55:40] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:55:40] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[25-Jan-2016 06:55:40] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[25-Jan-2016 06:55:40] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[25-Jan-2016 06:55:42] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[25-Jan-2016 06:55:42] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[25-Jan-2016 06:55:42] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[25-Jan-2016 06:55:42] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:10] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:10] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:10] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:10] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:20] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:20] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:20] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:20] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:22] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:22] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:22] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:22] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:38] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:38] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:38] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:38] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:39] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:39] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:39] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:39] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:39] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:39] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:39] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:39] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:39] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:39] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:39] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:39] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:41] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:41] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:41] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:41] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:57] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:57] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:57] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:57] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:59] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:17:59] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:17:59] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:17:59] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:16] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:18:16] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:18:16] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:16] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:17] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:18:17] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:18:17] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:17] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:17] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:18:17] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:18:17] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:17] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:19] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:18:19] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:18:19] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:18:19] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:26] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:19:26] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:19:26] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:26] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:28] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:19:28] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:19:28] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:28] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:34] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:19:34] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:19:34] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:34] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:35] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:19:35] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:19:35] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:35] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:42] PHP Notice:  Undefined variable: db_conntype in E:\zic\elly\services\mysql.class.php on line 23
+[26-Jan-2016 01:19:42] PHP Warning:  Missing argument 2 for db_mysql::query(), called in E:\zic\elly\services\mysql.class.php on line 83 and defined in E:\zic\elly\services\mysql.class.php on line 42
+[26-Jan-2016 01:19:42] PHP Notice:  Undefined variable: conn in E:\zic\elly\services\mysql.class.php on line 46
+[26-Jan-2016 01:19:42] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in E:\zic\elly\services\mysql.class.php on line 46
